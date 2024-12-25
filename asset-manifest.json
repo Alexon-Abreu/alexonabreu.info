@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/alexonabreu.info/static/css/main.81658d7e.chunk.css",
-    "main.js": "/alexonabreu.info/static/js/main.eba07175.chunk.js",
-    "main.js.map": "/alexonabreu.info/static/js/main.eba07175.chunk.js.map",
+    "main.css": "/alexonabreu.info/static/css/main.2816462f.chunk.css",
+    "main.js": "/alexonabreu.info/static/js/main.63a04c1d.chunk.js",
+    "main.js.map": "/alexonabreu.info/static/js/main.63a04c1d.chunk.js.map",
     "runtime-main.js": "/alexonabreu.info/static/js/runtime-main.b35fd90b.js",
     "runtime-main.js.map": "/alexonabreu.info/static/js/runtime-main.b35fd90b.js.map",
     "static/js/2.6207c219.chunk.js": "/alexonabreu.info/static/js/2.6207c219.chunk.js",
     "static/js/2.6207c219.chunk.js.map": "/alexonabreu.info/static/js/2.6207c219.chunk.js.map",
     "index.html": "/alexonabreu.info/index.html",
-    "static/css/main.81658d7e.chunk.css.map": "/alexonabreu.info/static/css/main.81658d7e.chunk.css.map",
+    "static/css/main.2816462f.chunk.css.map": "/alexonabreu.info/static/css/main.2816462f.chunk.css.map",
     "static/js/2.6207c219.chunk.js.LICENSE.txt": "/alexonabreu.info/static/js/2.6207c219.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b35fd90b.js",
     "static/js/2.6207c219.chunk.js",
-    "static/css/main.81658d7e.chunk.css",
-    "static/js/main.eba07175.chunk.js"
+    "static/css/main.2816462f.chunk.css",
+    "static/js/main.63a04c1d.chunk.js"
   ]
 }
