@@ -10,7 +10,7 @@ const about = {
   role: 'Full-Stack Engineer',
   description:
     'From a young age, I’ve been passionate about technology. It’s given me a way to explore new ideas and express my creativity through software development. Now, as I near the end of my bachelor’s degree in Computer Science, I’m focused on building innovative software with a great team to make a meaningful impact.',
-  resume: 'https://example.com',
+  resume: 'https://drive.google.com/file/d/1dSoQ5FYMG896Be8UaER7uYmLSESVHjIR/view?usp=share_link',
   social: {
     linkedin: 'https://www.linkedin.com/in/alexon-abreu/',
     github: 'https://github.com/Alexon-Abreu',
@@ -21,29 +21,29 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Project 1',
+    name: 'NBA Data Mining Project',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'Developed a predictive model using NBA player metrics to rank potential nominees for MVP, DPOY, and SMOY awards, aiming to provide an unbiased, data-driven reference for award authenticity.',
+    stack: ['Jupyter Notebook', 'Python'],
+    sourceCode: 'https://github.com/Alexon-Abreu/NBA-Data-Mining-Project.git',
+    livePreview: 'https://www.canva.com/design/DAGZNLDa0Vw/SF3QN9rxpl0XGZx_nhFFUQ/view?utm_content=DAGZNLDa0Vw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf6e5773599',
   },
-  {
-    name: 'Project 2',
-    description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
-  },
-  {
-    name: 'Project 3',
-    description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
-  },
+  // {
+  //   name: 'Project 2',
+  //   description:
+  //     'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+  //   stack: ['SASS', 'TypeScript', 'React'],
+  //   sourceCode: 'https://github.com',
+  //   livePreview: 'https://github.com',
+  // },
+  // {
+  //   name: 'Project 3',
+  //   description:
+  //     'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+  //   stack: ['SASS', 'TypeScript', 'React'],
+  //   sourceCode: 'https://github.com',
+  //   livePreview: 'https://github.com',
+  // },
 ]
 
 const certificates = [
@@ -99,7 +99,7 @@ const skills = [
 
 const contact = {
   // email is optional - if left empty Contact section won't show up
-  email: 'johnsmith@mail.com',
+  email: 'alexon.abreuramirez26@myhunter.cuny.edu',
 }
 
 export { header, about, projects, certificates, skills, contact }

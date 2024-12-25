@@ -12,6 +12,7 @@
     box-shadow: 5px 5px 5px #d9dbdf;
     text-align: center;
     transition: transform 0.2s linear;
+    background-color: var(--clr-bg-alt);
   }
   
   .cert-card:hover {
