@@ -39,5 +39,5 @@ const ProjectContainer = ({ project }) => (
     )}
   </div>
 )
-
+ 
 export default ProjectContainer
