@@ -15,8 +15,8 @@
 }
 
 .dark {
-  --clr-bg: #272626; /*Background color for dark mode*/
-  --clr-bg-alt: #272626; /*box color for skills section*/
+  --clr-bg: #020408; /*Background color for dark mode*/
+  --clr-bg-alt: #0e1116; /*box color for skills section*/
   --clr-fg: #ffffff; /*text color for navbar titles, project descriptions, skills text, and ScrollToTop arrow*/
   --clr-fg-alt: #ffffff; /*text color for career title, section headers, projects stack, and certification title */
   --clr-primary: #ffffff; /*text color for name, resume and email button */
