@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Alexon-Abreu/alexonabreu.info.git/static/css/main.81658d7e.chunk.css",
+    "main.js": "/Alexon-Abreu/alexonabreu.info.git/static/js/main.eba07175.chunk.js",
+    "main.js.map": "/Alexon-Abreu/alexonabreu.info.git/static/js/main.eba07175.chunk.js.map",
+    "runtime-main.js": "/Alexon-Abreu/alexonabreu.info.git/static/js/runtime-main.0dfc1dd8.js",
+    "runtime-main.js.map": "/Alexon-Abreu/alexonabreu.info.git/static/js/runtime-main.0dfc1dd8.js.map",
+    "static/js/2.6207c219.chunk.js": "/Alexon-Abreu/alexonabreu.info.git/static/js/2.6207c219.chunk.js",
+    "static/js/2.6207c219.chunk.js.map": "/Alexon-Abreu/alexonabreu.info.git/static/js/2.6207c219.chunk.js.map",
+    "index.html": "/Alexon-Abreu/alexonabreu.info.git/index.html",
+    "static/css/main.81658d7e.chunk.css.map": "/Alexon-Abreu/alexonabreu.info.git/static/css/main.81658d7e.chunk.css.map",
+    "static/js/2.6207c219.chunk.js.LICENSE.txt": "/Alexon-Abreu/alexonabreu.info.git/static/js/2.6207c219.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0dfc1dd8.js",
+    "static/js/2.6207c219.chunk.js",
+    "static/css/main.81658d7e.chunk.css",
+    "static/js/main.eba07175.chunk.js"
+  ]
+}
