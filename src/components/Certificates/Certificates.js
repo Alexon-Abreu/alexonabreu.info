@@ -38,6 +38,24 @@ const certificates = [
     logo: 'https://cdn.icon-icons.com/icons2/2389/PNG/512/codecademy_logo_icon_145396.png',
     link: 'https://www.codecademy.com/profiles/AlexonAbreu/certificates/6c152bd262967f8c941c9707ed636bda',
   },
+  {
+    title: 'IBM Accelerate - Software Developer',
+    subtitle: 'IBM',
+    logo: 'https://cognizant.scene7.com/is/image/cognizant/ibm-logo?fmt=png-alpha',
+    link: 'https://www.credly.com/badges/58d59697-5b38-4e2a-96db-41700346e7b5/linked_in_profile',
+  },
+  {
+    title: 'Building Modern Python Applications on AWS',
+    subtitle: 'Amazon Web Services',
+    logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png',
+    link: 'https://www.codecademy.com/profiles/AlexonAbreu/certificates/b74a2390dfc4127fa5d43fe147425ad0',
+  },
+  {
+    title: 'Machine Learning with Python - Level 1',
+    subtitle: 'Saeed Aghabozorgi, Kevin Wong, and Daniel Tran',
+    logo: 'https://cognizant.scene7.com/is/image/cognizant/ibm-logo?fmt=png-alpha',
+    link: 'https://www.credly.com/badges/a9e4e339-2284-4c45-9078-265ed4958784?source=linked_in_profile',
+  },
   // Add more certificates as needed
 ]
 
