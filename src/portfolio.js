@@ -28,14 +28,14 @@ const projects = [
     sourceCode: 'https://github.com/Alexon-Abreu/NBA-Data-Mining-Project.git',
     livePreview: 'https://www.canva.com/design/DAGZNLDa0Vw/SF3QN9rxpl0XGZx_nhFFUQ/view?utm_content=DAGZNLDa0Vw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf6e5773599',
   },
-  // {
-  //   name: 'Project 2',
-  //   description:
-  //     'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-  //   stack: ['SASS', 'TypeScript', 'React'],
-  //   sourceCode: 'https://github.com',
-  //   livePreview: 'https://github.com',
-  // },
+  {
+    name: 'Recommendify',
+    description:
+      'Recommendify is a web application designed to uncover new music and your next favorite artist. Simply sign in with your Spotify account and Recommendify will give you a list of recommended artists to explore! ✨🎶',
+    stack: ['JavaScript', 'CSS', 'HTML'],
+    sourceCode: 'https://github.com/dluzong/Recommendify.git',
+    livePreview: 'https://www.canva.com/design/DAGZZPn7_24/z0HIoenldQX-zy8M0V73hA/view?utm_content=DAGZZPn7_24&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h38dd60f9c7',
+  },
   // {
   //   name: 'Project 3',
   //   description:
