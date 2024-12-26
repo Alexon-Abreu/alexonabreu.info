@@ -89,11 +89,12 @@ const certificates = [
 const skills = [
   // skills can be added or removed
   // if there are no skills, Skills section won't show up
+  'C++',
+  'Python',
   'HTML',
   'CSS',
   'JavaScript',
   'React',
-  'Material UI',
   'Git'
 ]
 
