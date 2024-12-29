@@ -4,37 +4,37 @@ import './Certificates.css'
 const certificates = [
   {
     title: 'Basics of Quantum Information',
-    subtitle: 'John Watrous',
+    subtitle: 'IBM',
     logo: 'https://cognizant.scene7.com/is/image/cognizant/ibm-logo?fmt=png-alpha',
     link: 'https://www.credly.com/badges/f7370c87-35b3-489c-ac52-cbc564283723/linked_in_profile',
   },
   {
     title: 'Quantum-Safe Encryption Essentials',
-    subtitle: 'Dwaine Snow',
+    subtitle: 'IBM',
     logo: 'https://cognizant.scene7.com/is/image/cognizant/ibm-logo?fmt=png-alpha',
     link: 'https://www.credly.com/badges/9dd99e0a-506a-4956-849f-2a29e30b7aa6/linked_in_profile',
   },
   {
     title: "Create a Voice Assistant with OpenAI's GPT-3 and IBM Watson",
-    subtitle: 'Rav Ahuja',
+    subtitle: 'IBM',
     logo: 'https://cognizant.scene7.com/is/image/cognizant/ibm-logo?fmt=png-alpha',
     link: 'https://courses.cognitiveclass.ai/certificates/126988e2c04d4010bca8cebf0ef38fe7',
   },
   {
     title: 'Intro to ChatGPT',
-    subtitle: 'Zoe Bachman',
+    subtitle: 'Codecademy',
     logo: 'https://cdn.icon-icons.com/icons2/2389/PNG/512/codecademy_logo_icon_145396.png',
     link: 'https://www.codecademy.com/profiles/AlexonAbreu/certificates/ef9a06323b7d44b091a3ec7816092dc6',
   },
   {
     title: 'Learn C++ Course',
-    subtitle: 'Zoe Bachman',
+    subtitle: 'Codecademy',
     logo: 'https://cdn.icon-icons.com/icons2/2389/PNG/512/codecademy_logo_icon_145396.png',
     link: 'https://www.codecademy.com/profiles/AlexonAbreu/certificates/b74a2390dfc4127fa5d43fe147425ad0',
   },
   {
     title: 'Learn Python 3 Course',
-    subtitle: 'Zoe Bachman',
+    subtitle: 'Codecademy',
     logo: 'https://cdn.icon-icons.com/icons2/2389/PNG/512/codecademy_logo_icon_145396.png',
     link: 'https://www.codecademy.com/profiles/AlexonAbreu/certificates/6c152bd262967f8c941c9707ed636bda',
   },
@@ -52,7 +52,7 @@ const certificates = [
   },
   {
     title: 'Machine Learning with Python - Level 1',
-    subtitle: 'Saeed Aghabozorgi, Kevin Wong, and Daniel Tran',
+    subtitle: 'IBM',
     logo: 'https://cognizant.scene7.com/is/image/cognizant/ibm-logo?fmt=png-alpha',
     link: 'https://www.credly.com/badges/a9e4e339-2284-4c45-9078-265ed4958784?source=linked_in_profile',
   },
