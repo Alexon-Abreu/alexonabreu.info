@@ -3,6 +3,12 @@ import './Certificates.css'
 
 const certificates = [
   {
+    title: 'Cloud Computing Fundamentals',
+    subtitle: 'IBM',
+    logo: 'https://cognizant.scene7.com/is/image/cognizant/ibm-logo?fmt=png-alpha',
+    link: 'https://www.credly.com/badges/1ceb7d8e-4a36-4c12-bf9d-63653d6946bd/public_url',
+  },
+  {
     title: 'Basics of Quantum Information',
     subtitle: 'IBM',
     logo: 'https://cognizant.scene7.com/is/image/cognizant/ibm-logo?fmt=png-alpha',
@@ -55,6 +61,18 @@ const certificates = [
     subtitle: 'IBM',
     logo: 'https://cognizant.scene7.com/is/image/cognizant/ibm-logo?fmt=png-alpha',
     link: 'https://www.credly.com/badges/a9e4e339-2284-4c45-9078-265ed4958784?source=linked_in_profile',
+  },
+  {
+    title: 'Applied Data Science with Python - Level 2',
+    subtitle: 'IBM',
+    logo: 'https://cognizant.scene7.com/is/image/cognizant/ibm-logo?fmt=png-alpha',
+    link: 'https://www.credly.com/badges/9c8fe71a-6c43-4bbd-8645-4204e10baf62?source=linked_in_profile',
+  },
+  {
+    title: 'Build Your Own Chatbot - Level 1',
+    subtitle: 'IBM',
+    logo: 'https://cognizant.scene7.com/is/image/cognizant/ibm-logo?fmt=png-alpha',
+    link: 'https://www.credly.com/badges/d26d6349-cc55-47f7-8bee-ff2b3a88a2e5?source=linked_in_profile',
   },
   // Add more certificates as needed
 ]
