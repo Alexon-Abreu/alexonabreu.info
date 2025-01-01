@@ -91,11 +91,15 @@ const skills = [
   // if there are no skills, Skills section won't show up
   'C++',
   'Python',
+  'Jupyter Notebooks',
   'HTML',
   'CSS',
   'JavaScript',
   'React',
-  'Git'
+  'Git',
+  'Docker',
+  'Flutter',
+  'Dart'
 ]
 
 const contact = {
