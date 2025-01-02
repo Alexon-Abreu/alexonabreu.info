@@ -54,7 +54,7 @@ const certificates = [
     title: 'Building Modern Python Applications on AWS',
     subtitle: 'Amazon Web Services',
     logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png',
-    link: 'https://www.codecademy.com/profiles/AlexonAbreu/certificates/b74a2390dfc4127fa5d43fe147425ad0',
+    link: 'https://www.coursera.org/account/accomplishments/verify/KLSQKJGMXA5M?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course',
   },
   {
     title: 'Machine Learning with Python - Level 1',
