@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/alexonabreu.info/static/css/main.2816462f.chunk.css",
-    "main.js": "/alexonabreu.info/static/js/main.c503e1b8.chunk.js",
-    "main.js.map": "/alexonabreu.info/static/js/main.c503e1b8.chunk.js.map",
+    "main.js": "/alexonabreu.info/static/js/main.f4b0a5f5.chunk.js",
+    "main.js.map": "/alexonabreu.info/static/js/main.f4b0a5f5.chunk.js.map",
     "runtime-main.js": "/alexonabreu.info/static/js/runtime-main.b35fd90b.js",
     "runtime-main.js.map": "/alexonabreu.info/static/js/runtime-main.b35fd90b.js.map",
     "static/js/2.6207c219.chunk.js": "/alexonabreu.info/static/js/2.6207c219.chunk.js",
@@ -12,12 +12,13 @@
     "static/js/2.6207c219.chunk.js.LICENSE.txt": "/alexonabreu.info/static/js/2.6207c219.chunk.js.LICENSE.txt",
     "static/media/AmazonWebServicesLogo.1237dcb9.png": "/alexonabreu.info/static/media/AmazonWebServicesLogo.1237dcb9.png",
     "static/media/BeMyAppLogo.36cb948d.jpg": "/alexonabreu.info/static/media/BeMyAppLogo.36cb948d.jpg",
+    "static/media/CodePathLogo.9fe71dcb.jpg": "/alexonabreu.info/static/media/CodePathLogo.9fe71dcb.jpg",
     "static/media/IBM_Logo.63ffb579.png": "/alexonabreu.info/static/media/IBM_Logo.63ffb579.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b35fd90b.js",
     "static/js/2.6207c219.chunk.js",
     "static/css/main.2816462f.chunk.css",
-    "static/js/main.c503e1b8.chunk.js"
+    "static/js/main.f4b0a5f5.chunk.js"
   ]
 }
