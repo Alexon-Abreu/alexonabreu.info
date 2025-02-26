@@ -5,9 +5,15 @@ import BeMyAppLogo from './BeMyAppLogo.jpg';
 import IBM_Logo from './IBM_Logo.png'
 import CodeademyLogo from './CodeademyLogo.png'
 import AmazonWebServicesLogo from './AmazonWebServicesLogo.png'
+import CodePathLogo from './CodePathLogo.jpg'
 
 
 const certificates = [
+  {
+    title: 'Intro to iOS Development',
+    subtitle: '(In Progress)',
+    logo: CodePathLogo,
+  },
   {
     title: 'Built a virtual agent at IBM TechXchange',
     subtitle: 'BeMyApp X IBM',
