@@ -21,6 +21,14 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
+    name: 'GottaGo (Capstone Project in Progress)',
+    description:
+      'GottaGo will provide real-time, user-verified information on public bathrooms so that everyone can quickly and confidently find a suitable facility when nature calls.',
+    stack: ['React', 'JavaScript', 'CSS', 'HTML', 'Python', 'PostgreSQL', 'Google Takeout'],
+    // sourceCode: 'https://github.com',
+    // livePreview: 'https://github.com',
+  },
+  {
     name: 'NBA Data Mining Project',
     description:
       'Developed a predictive model using NBA player metrics to rank potential nominees for MVP, DPOY, and SMOY awards, aiming to provide an unbiased, data-driven reference for award authenticity.',
@@ -36,7 +44,7 @@ const projects = [
     sourceCode: 'https://github.com/dluzong/Recommendify.git',
     livePreview: 'https://www.canva.com/design/DAGZZPn7_24/z0HIoenldQX-zy8M0V73hA/view?utm_content=DAGZZPn7_24&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h38dd60f9c7',
   },
-  // {
+ // {
   //   name: 'Project 3',
   //   description:
   //     'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
