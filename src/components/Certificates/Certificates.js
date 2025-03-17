@@ -15,6 +15,11 @@ const certificates = [
     logo: CodePathLogo,
   },
   {
+    title: 'Artificial Intelligence Fundamentals',
+    subtitle: '(In Progress)',
+    logo: IBM_Logo,
+  },
+  {
     title: 'Built a virtual agent at IBM TechXchange',
     subtitle: 'BeMyApp X IBM',
     logo: BeMyAppLogo,
