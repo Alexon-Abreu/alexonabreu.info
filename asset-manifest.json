@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/alexonabreu.info/static/css/main.2816462f.chunk.css",
-    "main.js": "/alexonabreu.info/static/js/main.0e70fb0f.chunk.js",
-    "main.js.map": "/alexonabreu.info/static/js/main.0e70fb0f.chunk.js.map",
+    "main.css": "/alexonabreu.info/static/css/main.77b884a3.chunk.css",
+    "main.js": "/alexonabreu.info/static/js/main.94bbe477.chunk.js",
+    "main.js.map": "/alexonabreu.info/static/js/main.94bbe477.chunk.js.map",
     "runtime-main.js": "/alexonabreu.info/static/js/runtime-main.b35fd90b.js",
     "runtime-main.js.map": "/alexonabreu.info/static/js/runtime-main.b35fd90b.js.map",
     "static/js/2.6207c219.chunk.js": "/alexonabreu.info/static/js/2.6207c219.chunk.js",
     "static/js/2.6207c219.chunk.js.map": "/alexonabreu.info/static/js/2.6207c219.chunk.js.map",
     "index.html": "/alexonabreu.info/index.html",
-    "static/css/main.2816462f.chunk.css.map": "/alexonabreu.info/static/css/main.2816462f.chunk.css.map",
+    "static/css/main.77b884a3.chunk.css.map": "/alexonabreu.info/static/css/main.77b884a3.chunk.css.map",
     "static/js/2.6207c219.chunk.js.LICENSE.txt": "/alexonabreu.info/static/js/2.6207c219.chunk.js.LICENSE.txt",
     "static/media/AmazonWebServicesLogo.1237dcb9.png": "/alexonabreu.info/static/media/AmazonWebServicesLogo.1237dcb9.png",
     "static/media/BeMyAppLogo.36cb948d.jpg": "/alexonabreu.info/static/media/BeMyAppLogo.36cb948d.jpg",
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.b35fd90b.js",
     "static/js/2.6207c219.chunk.js",
-    "static/css/main.2816462f.chunk.css",
-    "static/js/main.0e70fb0f.chunk.js"
+    "static/css/main.77b884a3.chunk.css",
+    "static/js/main.94bbe477.chunk.js"
   ]
 }
