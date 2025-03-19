@@ -21,7 +21,8 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'GottaGo (Capstone Project in Progress)',
+    name: 'GottaGo',
+    subtitle: '(Capstone Project in Progress)',
     description:
       'GottaGo will provide real-time, user-verified information on public bathrooms so that everyone can quickly and confidently find a suitable facility when nature calls.',
     stack: ['React', 'JavaScript', 'CSS', 'HTML', 'Python', 'PostgreSQL', 'Google Takeout'],
