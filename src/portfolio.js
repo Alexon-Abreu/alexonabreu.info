@@ -26,7 +26,7 @@ const projects = [
       'GottaGo will provide real-time, user-verified information on public bathrooms so that everyone can quickly and confidently find a suitable facility when nature calls.',
     stack: ['React', 'JavaScript', 'CSS', 'HTML', 'Python', 'PostgreSQL', 'Google Takeout'],
     // sourceCode: 'https://github.com',
-    // livePreview: 'https://github.com',
+    livePreview: 'https://docs.google.com/presentation/d/15LZvwkLcXePLMKtYb0vSWoKHqA6kqKGE6MF_z7SdXvs/edit#slide=id.p',
   },
   {
     name: 'NBA Data Mining Project',
