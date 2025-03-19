@@ -32,3 +32,10 @@
 .project .link--icon {
   margin-left: 0.5em;
 }
+
+
+.project__subtitle {
+  font-size: 1rem;
+  color: #666;
+  margin-top: 0.5rem;
+}
