@@ -18,6 +18,7 @@ const certificates = [
     title: 'Artificial Intelligence Fundamentals',
     subtitle: 'IBM',
     logo: IBM_Logo,
+    link: 'https://www.credly.com/badges/e8dc91c2-39e6-47ae-9d9c-030f04f4b3cb/public_url'
   },
   {
     title: 'Built a virtual agent at IBM TechXchange',
