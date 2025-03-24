@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/alexonabreu.info/static/css/main.77b884a3.chunk.css",
-    "main.js": "/alexonabreu.info/static/js/main.94bbe477.chunk.js",
-    "main.js.map": "/alexonabreu.info/static/js/main.94bbe477.chunk.js.map",
-    "runtime-main.js": "/alexonabreu.info/static/js/runtime-main.b35fd90b.js",
-    "runtime-main.js.map": "/alexonabreu.info/static/js/runtime-main.b35fd90b.js.map",
-    "static/js/2.6207c219.chunk.js": "/alexonabreu.info/static/js/2.6207c219.chunk.js",
-    "static/js/2.6207c219.chunk.js.map": "/alexonabreu.info/static/js/2.6207c219.chunk.js.map",
-    "index.html": "/alexonabreu.info/index.html",
-    "static/css/main.77b884a3.chunk.css.map": "/alexonabreu.info/static/css/main.77b884a3.chunk.css.map",
-    "static/js/2.6207c219.chunk.js.LICENSE.txt": "/alexonabreu.info/static/js/2.6207c219.chunk.js.LICENSE.txt",
-    "static/media/AmazonWebServicesLogo.1237dcb9.png": "/alexonabreu.info/static/media/AmazonWebServicesLogo.1237dcb9.png",
-    "static/media/BeMyAppLogo.36cb948d.jpg": "/alexonabreu.info/static/media/BeMyAppLogo.36cb948d.jpg",
-    "static/media/CodePathLogo.9fe71dcb.jpg": "/alexonabreu.info/static/media/CodePathLogo.9fe71dcb.jpg",
-    "static/media/IBM_Logo.63ffb579.png": "/alexonabreu.info/static/media/IBM_Logo.63ffb579.png"
+    "main.css": "/static/css/main.77b884a3.chunk.css",
+    "main.js": "/static/js/main.b88facdb.chunk.js",
+    "main.js.map": "/static/js/main.b88facdb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8e2496e8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8e2496e8.js.map",
+    "static/js/2.6207c219.chunk.js": "/static/js/2.6207c219.chunk.js",
+    "static/js/2.6207c219.chunk.js.map": "/static/js/2.6207c219.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.77b884a3.chunk.css.map": "/static/css/main.77b884a3.chunk.css.map",
+    "static/js/2.6207c219.chunk.js.LICENSE.txt": "/static/js/2.6207c219.chunk.js.LICENSE.txt",
+    "static/media/AmazonWebServicesLogo.1237dcb9.png": "/static/media/AmazonWebServicesLogo.1237dcb9.png",
+    "static/media/BeMyAppLogo.36cb948d.jpg": "/static/media/BeMyAppLogo.36cb948d.jpg",
+    "static/media/CodePathLogo.9fe71dcb.jpg": "/static/media/CodePathLogo.9fe71dcb.jpg",
+    "static/media/IBM_Logo.63ffb579.png": "/static/media/IBM_Logo.63ffb579.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b35fd90b.js",
+    "static/js/runtime-main.8e2496e8.js",
     "static/js/2.6207c219.chunk.js",
     "static/css/main.77b884a3.chunk.css",
-    "static/js/main.94bbe477.chunk.js"
+    "static/js/main.b88facdb.chunk.js"
   ]
 }
