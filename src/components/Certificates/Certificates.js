@@ -16,7 +16,7 @@ const certificates = [
   },
   {
     title: 'Artificial Intelligence Fundamentals',
-    subtitle: '(In Progress)',
+    subtitle: 'IBM',
     logo: IBM_Logo,
   },
   {
