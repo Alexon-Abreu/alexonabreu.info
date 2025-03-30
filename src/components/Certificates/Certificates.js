@@ -6,6 +6,7 @@ import IBM_Logo from './IBM_Logo.png'
 import CodeademyLogo from './CodeademyLogo.png'
 import AmazonWebServicesLogo from './AmazonWebServicesLogo.png'
 import CodePathLogo from './CodePathLogo.jpg'
+import MicrosoftLogo from './MicrosoftLogo.png'
 
 
 const certificates = [
