@@ -10,7 +10,7 @@ const about = {
   role: 'Full-Stack Engineer',
   description:
     'From a young age, I’ve been passionate about technology. It’s given me a way to explore new ideas and express my creativity through software development. Now, as I near the end of my bachelor’s degree in Computer Science, I’m focused on building innovative software with a great team to make a meaningful impact.',
-  resume: 'https://drive.google.com/file/d/1FYJy8fX9UleUBJK4XwvcHjwFt0C77Bl7/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/1-EVwr9IYeeH6LhPedOBNSR_gTaMi--Zl/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/alexon-abreu/',
     github: 'https://github.com/Alexon-Abreu',
@@ -108,7 +108,8 @@ const skills = [
   'Git',
   'Docker',
   'Flutter',
-  'Dart'
+  'Dart',
+  'PostgreSQL'
 ]
 
 const contact = {
