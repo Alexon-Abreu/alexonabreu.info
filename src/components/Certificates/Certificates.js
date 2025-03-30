@@ -37,7 +37,7 @@ const certificates = [
     title: "Develop solutions with Azure AI Document Intelligence",
     subtitle: 'Microsoft',
     logo: MicrosoftLogo,
-    link: '',
+    link: 'https://learn.microsoft.com/api/achievements/share/en-us/AlexonAbreuRamirez-6966/WZVTLVAN?sharingId=DA83242D04B2A6D4',
   },
   {
     title: 'Basics of Quantum Information',
