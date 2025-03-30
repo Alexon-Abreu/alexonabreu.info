@@ -33,6 +33,12 @@ const certificates = [
     link: 'https://www.credly.com/badges/1ceb7d8e-4a36-4c12-bf9d-63653d6946bd/public_url',
   },
   {
+    title: "Develop solutions with Azure AI Document Intelligence",
+    subtitle: 'Microsoft',
+    logo: '',
+    link: '',
+  },
+  {
     title: 'Basics of Quantum Information',
     subtitle: 'IBM',
     logo: IBM_Logo,
