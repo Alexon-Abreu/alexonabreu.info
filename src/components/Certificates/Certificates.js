@@ -36,7 +36,7 @@ const certificates = [
   {
     title: "Develop solutions with Azure AI Document Intelligence",
     subtitle: 'Microsoft',
-    logo: '',
+    logo: MicrosoftLogo,
     link: '',
   },
   {
