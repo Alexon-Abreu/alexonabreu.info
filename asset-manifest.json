@@ -1,25 +1,18 @@
 {
   "files": {
-    "main.css": "/alexonabreu.info/static/css/main.77b884a3.chunk.css",
-    "main.js": "/alexonabreu.info/static/js/main.42f87742.chunk.js",
-    "main.js.map": "/alexonabreu.info/static/js/main.42f87742.chunk.js.map",
-    "runtime-main.js": "/alexonabreu.info/static/js/runtime-main.b35fd90b.js",
-    "runtime-main.js.map": "/alexonabreu.info/static/js/runtime-main.b35fd90b.js.map",
-    "static/js/2.6207c219.chunk.js": "/alexonabreu.info/static/js/2.6207c219.chunk.js",
-    "static/js/2.6207c219.chunk.js.map": "/alexonabreu.info/static/js/2.6207c219.chunk.js.map",
-    "index.html": "/alexonabreu.info/index.html",
-    "static/css/main.77b884a3.chunk.css.map": "/alexonabreu.info/static/css/main.77b884a3.chunk.css.map",
-    "static/js/2.6207c219.chunk.js.LICENSE.txt": "/alexonabreu.info/static/js/2.6207c219.chunk.js.LICENSE.txt",
-    "static/media/AmazonWebServicesLogo.1237dcb9.png": "/alexonabreu.info/static/media/AmazonWebServicesLogo.1237dcb9.png",
-    "static/media/BeMyAppLogo.36cb948d.jpg": "/alexonabreu.info/static/media/BeMyAppLogo.36cb948d.jpg",
-    "static/media/CodePathLogo.9fe71dcb.jpg": "/alexonabreu.info/static/media/CodePathLogo.9fe71dcb.jpg",
-    "static/media/IBM_Logo.63ffb579.png": "/alexonabreu.info/static/media/IBM_Logo.63ffb579.png",
-    "static/media/MicrosoftLogo.f52293e0.png": "/alexonabreu.info/static/media/MicrosoftLogo.f52293e0.png"
+    "main.css": "/static/css/main.d3845cb8.css",
+    "main.js": "/static/js/main.fcaebe43.js",
+    "static/media/CodePathLogo.jpg": "/static/media/CodePathLogo.9fe71dcb56a7aefe9ab9.jpg",
+    "static/media/AmazonWebServicesLogo.png": "/static/media/AmazonWebServicesLogo.1237dcb96fe43a664269.png",
+    "static/media/IBM_Logo.png": "/static/media/IBM_Logo.63ffb579a9da4c8d047c.png",
+    "static/media/MicrosoftLogo.png": "/static/media/MicrosoftLogo.f52293e0e15d3fe03480.png",
+    "static/media/BeMyAppLogo.jpg": "/static/media/BeMyAppLogo.36cb948d12606110449f.jpg",
+    "index.html": "/index.html",
+    "main.d3845cb8.css.map": "/static/css/main.d3845cb8.css.map",
+    "main.fcaebe43.js.map": "/static/js/main.fcaebe43.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.b35fd90b.js",
-    "static/js/2.6207c219.chunk.js",
-    "static/css/main.77b884a3.chunk.css",
-    "static/js/main.42f87742.chunk.js"
+    "static/css/main.d3845cb8.css",
+    "static/js/main.fcaebe43.js"
   ]
 }
