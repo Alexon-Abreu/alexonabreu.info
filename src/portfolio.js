@@ -32,7 +32,7 @@ const projects = [
   {
     name: 'NBA Data Mining Project',
     description:
-      'Developed a predictive model using NBA player metrics to rank potential nominees for MVP, DPOY, and SMOY awards, aiming to provide an unbiased, data-driven reference for award authenticity.',
+      'Developed predictive models using NBA player metrics to provide an unbiased, data-driven reference for deserving award winners.',
     stack: ['Jupyter Notebook', 'Python', 'BRScraper', 'pandas', 'numpy', 'matplotlib', 'seaborn'],
     sourceCode: 'https://github.com/Alexon-Abreu/NBA-Data-Mining-Project.git',
     livePreview: 'https://www.canva.com/design/DAGZNLDa0Vw/SF3QN9rxpl0XGZx_nhFFUQ/view?utm_content=DAGZNLDa0Vw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf6e5773599',
