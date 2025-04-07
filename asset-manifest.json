@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.d3845cb8.css",
-    "main.js": "/static/js/main.fcaebe43.js",
-    "static/media/CodePathLogo.jpg": "/static/media/CodePathLogo.9fe71dcb56a7aefe9ab9.jpg",
-    "static/media/AmazonWebServicesLogo.png": "/static/media/AmazonWebServicesLogo.1237dcb96fe43a664269.png",
-    "static/media/IBM_Logo.png": "/static/media/IBM_Logo.63ffb579a9da4c8d047c.png",
-    "static/media/MicrosoftLogo.png": "/static/media/MicrosoftLogo.f52293e0e15d3fe03480.png",
-    "static/media/BeMyAppLogo.jpg": "/static/media/BeMyAppLogo.36cb948d12606110449f.jpg",
-    "index.html": "/index.html",
-    "main.d3845cb8.css.map": "/static/css/main.d3845cb8.css.map",
-    "main.fcaebe43.js.map": "/static/js/main.fcaebe43.js.map"
+    "main.css": "/alexonabreu.info/static/css/main.d3845cb8.css",
+    "main.js": "/alexonabreu.info/static/js/main.436f97b1.js",
+    "static/media/CodePathLogo.jpg": "/alexonabreu.info/static/media/CodePathLogo.9fe71dcb56a7aefe9ab9.jpg",
+    "static/media/AmazonWebServicesLogo.png": "/alexonabreu.info/static/media/AmazonWebServicesLogo.1237dcb96fe43a664269.png",
+    "static/media/IBM_Logo.png": "/alexonabreu.info/static/media/IBM_Logo.63ffb579a9da4c8d047c.png",
+    "static/media/MicrosoftLogo.png": "/alexonabreu.info/static/media/MicrosoftLogo.f52293e0e15d3fe03480.png",
+    "static/media/BeMyAppLogo.jpg": "/alexonabreu.info/static/media/BeMyAppLogo.36cb948d12606110449f.jpg",
+    "index.html": "/alexonabreu.info/index.html",
+    "main.d3845cb8.css.map": "/alexonabreu.info/static/css/main.d3845cb8.css.map",
+    "main.436f97b1.js.map": "/alexonabreu.info/static/js/main.436f97b1.js.map"
   },
   "entrypoints": [
     "static/css/main.d3845cb8.css",
-    "static/js/main.fcaebe43.js"
+    "static/js/main.436f97b1.js"
   ]
 }
