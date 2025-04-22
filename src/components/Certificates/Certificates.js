@@ -1,3 +1,4 @@
+import React from 'react'
 import { Component } from 'react'
 import uniqid from 'uniqid'
 import './Certificates.css'
