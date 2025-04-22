@@ -8,6 +8,8 @@ import CodeademyLogo from './CodeademyLogo.png'
 import AmazonWebServicesLogo from './AmazonWebServicesLogo.png'
 import CodePathLogo from './CodePathLogo.jpg'
 import MicrosoftLogo from './MicrosoftLogo.png'
+import GoogleLogo from './GoogleLogo.png'
+import KaggleLogo from './KaggleLogo.png'
 
 
 const certificates = [
@@ -15,6 +17,12 @@ const certificates = [
     title: 'Intro to iOS Development',
     subtitle: '(In Progress)',
     logo: CodePathLogo,
+  },
+  {
+    title: '5-Day Gen AI Intensive Course with Google',
+    subtitle: 'Kaggle',
+    logo: KaggleLogo,
+    link: 'https://www.kaggle.com/certification/badges/alexonabreu9/96'
   },
   {
     title: 'Artificial Intelligence Fundamentals',
