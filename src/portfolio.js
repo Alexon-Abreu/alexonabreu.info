@@ -30,6 +30,14 @@ const projects = [
     livePreview: 'https://docs.google.com/presentation/d/15LZvwkLcXePLMKtYb0vSWoKHqA6kqKGE6MF_z7SdXvs/edit#slide=id.p',
   },
   {
+    name: 'Quote of the Day',
+    description:
+      'A simple iOS app that delivers daily quotes for those curious to think and learn deeply about themselves or the world around them',
+    stack: ['Swift', 'Xcode', 'UIkit', 'Zen Quotes API'],
+    sourceCode: 'https://github.com/Alexon-Abreu/CP_IOS/tree/7fa2bd0fc74c3d6305be863b3fee2677810f67a2/Capstone/QuoteOfTheDay',
+    livePreview: 'https://github.com/Alexon-Abreu/CP_IOS/blob/cf7b63489f8aa1504ffd28e34d7a8e41a78ac980/Capstone/QuoteOfTheDay/demo.gif',
+  },
+  {
     name: 'NBA Data Mining Project',
     description:
       'Developed predictive models using NBA player metrics to provide an unbiased, data-driven reference for deserving award winners.',
