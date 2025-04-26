@@ -38,7 +38,7 @@ const projects = [
     livePreview: 'https://github.com/Alexon-Abreu/CP_IOS/blob/cf7b63489f8aa1504ffd28e34d7a8e41a78ac980/Capstone/QuoteOfTheDay/demo.gif',
   },
   {
-    name: 'NBA Data Mining Project',
+    name: 'NBA Award Prediction',
     description:
       'Developed predictive models using NBA player metrics to provide an unbiased, data-driven reference for deserving award winners.',
     stack: ['Jupyter Notebook', 'Python', 'BRScraper', 'pandas', 'numpy', 'matplotlib', 'seaborn'],
