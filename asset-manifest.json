@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/alexonabreu.info/static/css/main.d3845cb8.css",
-    "main.js": "/alexonabreu.info/static/js/main.7ee5e844.js",
+    "main.js": "/alexonabreu.info/static/js/main.c35aeb2e.js",
     "static/media/CodePathLogo.jpg": "/alexonabreu.info/static/media/CodePathLogo.9fe71dcb56a7aefe9ab9.jpg",
     "static/media/AmazonWebServicesLogo.png": "/alexonabreu.info/static/media/AmazonWebServicesLogo.1237dcb96fe43a664269.png",
     "static/media/GoogleLogo.png": "/alexonabreu.info/static/media/GoogleLogo.f5089099b4365201d2c5.png",
@@ -10,10 +10,10 @@
     "static/media/BeMyAppLogo.jpg": "/alexonabreu.info/static/media/BeMyAppLogo.36cb948d12606110449f.jpg",
     "index.html": "/alexonabreu.info/index.html",
     "main.d3845cb8.css.map": "/alexonabreu.info/static/css/main.d3845cb8.css.map",
-    "main.7ee5e844.js.map": "/alexonabreu.info/static/js/main.7ee5e844.js.map"
+    "main.c35aeb2e.js.map": "/alexonabreu.info/static/js/main.c35aeb2e.js.map"
   },
   "entrypoints": [
     "static/css/main.d3845cb8.css",
-    "static/js/main.7ee5e844.js"
+    "static/js/main.c35aeb2e.js"
   ]
 }
