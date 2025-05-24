@@ -30,6 +30,14 @@ const projects = [
     livePreview: 'https://docs.google.com/presentation/d/15LZvwkLcXePLMKtYb0vSWoKHqA6kqKGE6MF_z7SdXvs/edit#slide=id.p',
   },
   {
+    name: 'Aller-Free',
+    subtitle: '',
+    description:
+      '',
+    stack: [],
+    sourceCode: '',
+  },
+  {
     name: 'Quote of the Day',
     description:
       'A simple iOS app that delivers daily quotes for those curious to think and learn deeply about themselves or the world around them',
