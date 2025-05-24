@@ -31,7 +31,7 @@ const projects = [
   },
   {
     name: 'Aller-Free',
-    subtitle: '',
+    subtitle: 'Hackathon Project',
     description:
       '',
     stack: [],
