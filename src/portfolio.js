@@ -35,7 +35,7 @@ const projects = [
     description:
       'Empowers hyperallergic individuals to quickly analyze menu items with a snap of a photo and discover potential allergens to avoid',
     stack: ['Node.js', 'OpenAI', 'PostgreSQL', 'React', 'React Native', 'Tesseract'],
-    sourceCode: '',
+    sourceCode: 'https://github.com/tahminator/hunterhacks2025.git',
   },
   {
     name: 'Quote of the Day',
