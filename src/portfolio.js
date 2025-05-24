@@ -33,7 +33,7 @@ const projects = [
     name: 'Aller-Free',
     subtitle: 'Hackathon Project',
     description:
-      '',
+      'Empowers hyperallergic individuals to quickly analyze menu items with a snap of a photo and discover potential allergens to avoid',
     stack: [],
     sourceCode: '',
   },
