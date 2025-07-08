@@ -15,7 +15,7 @@ import KaggleLogo from './KaggleLogo.png'
 const certificates = [
   {
     title: 'Intro to iOS Development',
-    subtitle: '(In Progress)',
+    subtitle: 'CodePath',
     logo: CodePathLogo,
   },
   {
