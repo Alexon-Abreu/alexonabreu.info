@@ -39,7 +39,7 @@ const projects = [
   },
   {
     name: 'Quote of the Day',
-    subtitle: 'CodePath',
+    subtitle: 'CodePath Project',
     description:
       'A simple iOS app that delivers daily quotes for those curious to think and learn deeply about themselves or the world around them',
     stack: ['Swift', 'Xcode', 'UIkit', 'Zen Quotes API'],
