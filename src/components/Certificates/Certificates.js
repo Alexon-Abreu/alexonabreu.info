@@ -22,6 +22,7 @@ const certificates = [
     title: 'Intro to iOS Development',
     subtitle: 'CodePath',
     logo: CodePathLogo,
+    link: 'https://drive.google.com/file/d/1cuBOwtTIYam0Ub3ugm3P1kMgIzw4bBXo/view?usp=sharing'
   },
   {
     title: '5-Day Gen AI Intensive Course with Google',
