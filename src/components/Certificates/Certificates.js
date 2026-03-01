@@ -13,6 +13,12 @@ import KaggleLogo from './KaggleLogo.png'
 
 
 const certificates = [
+    {
+    title: 'Google AI Professional Certificate',
+    subtitle: 'Google',
+    logo: GoogleLogo,
+    link: 'https://www.credly.com/badges/aa7926e4-5c10-467c-b51d-4a9ca6a1eeac/public_url'
+  },
   {
     title: 'Intro to Technical Interview Prep',
     subtitle: 'CodePath',
